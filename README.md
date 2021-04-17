@@ -1,2 +1,2 @@
-Clone the repo, run `npm instal` and `npm start`
+Clone the repo, run `npm install` and `npm start`
 
